@@ -1,0 +1,4 @@
+URxvt*font: xft:inconsolata 
+URxvt*foreground: #FFFFFF
+URxvt.depth: 32
+URxvt.background: [60]#000000
